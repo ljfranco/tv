@@ -2,4 +2,4 @@
 #EXTINF:-1 , VTV
 https://video05-atl.streamup.com/app/andfutbaaaaaaas-stream_aac/playlist.m3u8
 #EXTINF:-1 , VERA + deporte
-http://live.cdn.antel.net.uy/auth_0_uibg1a77,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfdWliZzFhNzclMkZobHMlMkYlMkEmZXhwaXJ5PTE0NjUwOTU2MTMmcmFuZG9tPWZXbGxqUnlHMDQmYy1pcD0xODYuNDguMTY2LjIzMyw3NmJkMTM4N2RhOGQxYTEwZWFmZTZkMDZkNzJhZmEzNjNkZjkzNzZhZjZkNTRkM2EzNjNlY2QzODMxODIyYWM4/hls/auth_0_uibg1a77.m3u8
+http://live.cdn.antel.net.uy/auth_0_uibg1a77,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfdWliZzFhNzclMkZobHMlMkYlMkEmZXhwaXJ5PTE0NjUwOTkzMzUmcmFuZG9tPUF3ZDJnSGxHazImYy1pcD0xNzkuMjQuMjAwLjIzNyw2NjM1ZWQ1MWYxZTE4NGEwMmZiZGJmNWQ5N2RlMTM1OGY2YjZjNTRjMGJjM2QwY2NmMmNlZGEwMTA1ZDNiMzE0/hls/auth_0_uibg1a77.m3u8
