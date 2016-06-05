@@ -3,7 +3,3 @@
 https://video05-atl.streamup.com/app/andfutbaaaaaaas-stream_aac/playlist.m3u8
 #EXTINF:-1 , VERA + deporte
 http://live.cdn.antel.net.uy/auth_0_uibg1a77,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfdWliZzFhNzclMkZobHMlMkYlMkEmZXhwaXJ5PTE0NjUwOTkzMzUmcmFuZG9tPUF3ZDJnSGxHazImYy1pcD0xNzkuMjQuMjAwLjIzNyw2NjM1ZWQ1MWYxZTE4NGEwMmZiZGJmNWQ5N2RlMTM1OGY2YjZjNTRjMGJjM2QwY2NmMmNlZGEwMTA1ZDNiMzE0/hls/auth_0_uibg1a77.m3u8
-#EXTINF:-1 , copa
-https://video05-atl.streamup.com/app/andfutbaaaaaaas-stream_aac/playlist.m3u8
-#EXTINF:-1 , copa1
-http://s8.gamersindex.xyz/swf/3122.m3u8?sf=NTc0ZTJkN2M2NjFjZA==&token=sGR4JpeTgBTcyVm4ZReE2w|Referer=http%3A%2F%2Fbro.adca.st%2Fstream.php%3Fid%3D3122%26width%3D640%26height%3D460&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&X-Requested-With=ShockwaveFlash/21.0.0.216
