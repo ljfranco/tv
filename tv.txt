@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 , VTV
-rtmp://ifuckmyownmomonherass.streamlive.to:1935/edge/_definst_/?xs=_we_MThhOWpsbG0zZmp2MG5rfDE0NjUxNzYzMjF8MTc5LjI2LjY4LjIyOHw1NzU0YzlmOWU2N2NmfGE5Y2VlZjI0MTJiZDI4ODQwOWM2N2ZmNTA5MjliMzIyYjZkNGNlMTM.&userId=fDE0NjUxNzYzMjF8MmQ3NWVjNmU1NWViZmM5NTI5Y2Q1OTE0NWU5YTNjM2E1NTkwMzAyZA
+http://208.75.225.28:1935/live/zonitax1/playlist.m3u8
 #EXTINF:-1 , VERA + deporte
-http://live.cdn.antel.net.uy/auth_0_uibg1a77,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfdWliZzFhNzclMkZobHMlMkYlMkEmZXhwaXJ5PTE0NjUxODkzOTMmcmFuZG9tPUo3akV1TzhNY2smYy1pcD0xNzkuMjYuNjguMjI4LDdiODk2NzE2ZTAzOTE2ZjVmZGJkNjY5ODFhZjA3NTE1ZjdhNTA1NjE0MTVhZjViZGM5MjdkMGQ2NWExYWExMjg=/hls/auth_0_uibg1a77.m3u8
+http://live.cdn.antel.net.uy/auth_0_uibg1a77,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfdWliZzFhNzclMkZobHMlMkYlMkEmZXhwaXJ5PTE0NjUyNzI1MjQmcmFuZG9tPXdLZzNDaFJRRHkmYy1pcD0xNzkuMjYuMTAwLjE2NCxkZTcyYjhjNDMxZjg3N2Y1MDBmNDE0MzRjYzFkNWY5MTU3OTViNWYwMjUzNmU2MDFhMTYzODBkMDAyYzY4Y2Q2/hls/auth_0_uibg1a77.m3u8
+#EXTINF:-1 , copa
+http://208.75.225.28:1935/live/zonitax1/playlist.m3u8
