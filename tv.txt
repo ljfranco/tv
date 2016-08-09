@@ -5,3 +5,13 @@ http://live.cdn.antel.net.uy/auth_0_uibg1a77,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfdW
 http://live.cdn.antel.net.uy/auth_0_uibg1a77,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfdWliZzFhNzclMkZobHMlMkYlMkEmZXhwaXJ5PTE0NjU4OTMxNjMmcmFuZG9tPUo0aDR6RmZOaFEmYy1pcD0xNzkuMjYuMjE2LjIzNCxmNmZhY2RhNWRjNzAzOGZiY2VmYTU1MDI1MDY5YjRjZTg5ODdjZDUzYjdlNjZlNWMyZDMwNmMzZGU3ZjFkMzM0/hls/auth_0_uibg1a77.m3u8
 #EXTINF:-1 , copa
 http://208.75.225.28:1935/live/zonitax1/playlist.m3u8
+#EXTINF:-1 , Canal 4 MONTE CARLO
+dtv://antenna:29/atsc/4/1
+#EXTINF:-1 , Canal 5 TNU
+dtv://antenna:30/atsc/5/1
+#EXTINF:-1 , Canal 6 Teve Ciudad
+dtv://antenna:32/atsc/6/1
+#EXTINF:-1 , Canal 10
+dtv://antenna:31/atsc/10/1
+#EXTINF:-1 , Canal 12 La Tele
+dtv://antenna:28/atsc/12/1
