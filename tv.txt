@@ -3,15 +3,5 @@
 http://live.cdn.antel.net.uy/auth_0_uibg1a77,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfdWliZzFhNzclMkZobHMlMkYlMkEmZXhwaXJ5PTE0NjU1MzMzOTImcmFuZG9tPW5ZVWpmakJ1QVQmYy1pcD0xNzkuMjYuNDYuNzUsMWE1NzJmMjkxNDc2ZWZjNDZhYTZmYWY4NmJiZTc5ZGZmMjljYzM0MjlkOWIwNDZlOGE2YjcxOThjYWE5MDMzMw==/hls/auth_0_uibg1a77.m3u8
 #EXTINF:-1 , VERA+ deporte
 http://live.cdn.antel.net.uy/auth_0_qqysjdzx,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfcXF5c2pkenglMkZobHMlMkYlMkEmZXhwaXJ5PTE0NzU4MTQ5NDkmcmFuZG9tPVZNVDRJOU1UNHcmYy1pcD0xNzkuMjQuNTUuODgsYjBhNWRhNGZiNGY0ZmY0OWQ5ZGU2OWNhNTk1MzAzMDAyNTE2Y2UwMTVkNmRjNTQyZjQwYWY3NTk5YWFmZjk3Nw==/hls/var1390400/playlist.m3u8
-#EXTINF:-1 , copa
-http://208.75.225.28:1935/live/zonitax1/playlist.m3u8
-#EXTINF:-1 , Canal 4 MONTE CARLO
-dtv://antenna:29/atsc/4/1
-#EXTINF:-1 , Canal 5 TNU
-dtv://antenna:30/atsc/5/1
-#EXTINF:-1 , Canal 6 Teve Ciudad
-dtv://antenna:32/atsc/6/1
-#EXTINF:-1 , Canal 10
-dtv://antenna:31/atsc/10/1
-#EXTINF:-1 , Canal 12 La Tele
-dtv://antenna:28/atsc/12/1
+#EXTINF:-1 , VERA+ deporte2
+http://live.cdn.antel.net.uy/auth_0_qqysjdzx,vxttoken=cGF0aFVSST0lMkZhdXRoXzBfcXF5c2pkenglMkZobHMlMkYlMkEmZXhwaXJ5PTE0NzU4MTU4MjAmcmFuZG9tPWk5cWRQNklTeTcmYy1pcD0xNzkuMjQuNTUuODgsM2Q2NWFlOTEzMTM2NDBlMTYzNTVhNDFiOWRkOGMzNGVkMzJlNjQyNWNjMjhjZmE4ZDAwMjQ4M2MwMTBlMTZiNQ==/hls/var950400/playlist.m3u8
